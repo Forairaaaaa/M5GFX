@@ -6,7 +6,7 @@ idf component upload preparation:
 
 add upload workflow: https://github.com/Forairaaaaa/M5GFX/commit/2ecc11f0a955dd22b7845fb07cd090286468b96d
 
-rise `idf_component.yml` version
+increment `idf_component.yml` version
 
 draft new release
 
